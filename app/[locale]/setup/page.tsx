@@ -128,7 +128,7 @@ export default function SetupPage() {
       openai_api_key: openaiAPIKey,
       openai_organization_id: openaiOrgID,
       anthropic_api_key: anthropicAPIKey,
-      labelbox_api_key: labelboxAPIKey,
+      // labelbox_api_key: labelboxAPIKey,
       google_gemini_api_key: googleGeminiAPIKey,
       mistral_api_key: mistralAPIKey,
       perplexity_api_key: perplexityAPIKey,
